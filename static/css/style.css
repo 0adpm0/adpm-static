@@ -16,9 +16,8 @@ header {
 }
 
 nav a {
-  background-color: #b33434;
   background-repeat: repeat;
-  color: rgb(255, 255, 255);
+  color: rgb(192, 59, 59);
   font-family: Arial;
   font-weight: bold;
   text-decoration: none;
