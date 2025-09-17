@@ -1,23 +1,29 @@
 body {
   font-family: Arial, sans-serif;
+  color: #8d8d8d;
   margin: 0;
   padding: 0;
   line-height: 1.6;
+  text-align: center;
 }
 
 header {
-  background-color: #2E8B57;
+  background-color: #ffffff;
   color: white;
   padding: 1rem;
   display: flex;
-  justify-content: space-between;
   align-items: center;
 }
 
 nav a {
-  color: white;
+  background-color: #b33434;
+  background-repeat: repeat;
+  color: rgb(255, 255, 255);
+  font-family: Arial;
+  font-weight: bold;
   text-decoration: none;
-  margin-left: 1rem;
+  text-align: right;
+  display: center;
 }
 
 nav a:hover {
@@ -32,10 +38,10 @@ footer {
   background-color: #eee;
   text-align: center;
   padding: 1rem;
-  margin-top: 2rem;
+  margin-top: 25rem;
 }
 
 .logo {
   height: auto;
-  width: auto;
+  width: 100%;
 }
